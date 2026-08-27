@@ -561,7 +561,7 @@ msgid "Jobs for run"
 msgstr "Tâches (jobs) à exécuter"
 
 msgid "Run job again"
-msgstr "Exécuter la tâche (jo)b à nouveau"
+msgstr "Exécuter la tâche (job) à nouveau"
 
 msgid "Job status"
 msgstr "État de la tâche (job)"
@@ -2275,7 +2275,7 @@ msgid "Setting 0 (zero) value disables bandwidth limitation."
 msgstr "La valeur du paramètre 0 (zéro) désactive la limitation de bande passante."
 
 msgid "Set job bandwidth limit"
-msgstr "Définir la limite de bande passante pour la tâche (jo)b"
+msgstr "Définir la limite de bande passante pour la tâche (job)"
 
 msgid "Here you can set bandwidth limit for job. This change is applied on running job."
 msgstr "Ici, vous pouvez définir la limite de bande passante pour la tâche (job). Cette modification est appliquée sur la tâche (job) en cours d'exécution."
